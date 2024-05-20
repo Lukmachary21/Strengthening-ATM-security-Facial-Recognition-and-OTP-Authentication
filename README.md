@@ -19,7 +19,7 @@ The human face is identified using the Histogram of Oriented Gradients (HOG) met
 ## Tools to develop the project:
 * Programming Language: Python 3
 * Database: SQLite 3
-* Code Editor: Pycharm 2020.2
+* Code Editor: VSCode 2022
 
 ## Python Dependencies:  
 * opencv-python (3.4.6.27)
@@ -29,27 +29,3 @@ The human face is identified using the Histogram of Oriented Gradients (HOG) met
 * face-recognition (1.3.0)
 * twilio (6.45.3)
 * tkinter (8.6)
-
-## Hardware for Simulation:  
-* Raspberry Pi 4
-* USB Generic Webcam
-* Numeric Pad (USB)
-* 7” HD TFT Color Monitor
-# 5.	Demo
-![](images/0.JPG)
-
-![](images/1.JPG)
-
-![](images/2.JPG)
-
-![](images/4.JPG)
-
-![](images/5.JPG)
-
-![](images/6.JPG)
-
-![](images/7.jpg)
-
-![](images/3.JPG)
-
-![](images/Final.jpg)
