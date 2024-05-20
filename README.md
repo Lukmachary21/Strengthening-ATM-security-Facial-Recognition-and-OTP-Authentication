@@ -1,4 +1,4 @@
-# E-ATM
+#Strengthening ATM Security: Facial Recognition and OTP authentication
 Enhance Automated Teller Machine (ATM) Security by Introducing Facial Recognition
 
 # 1.	Introduction
