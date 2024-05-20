@@ -1,5 +1,5 @@
-#Strengthening ATM Security: Facial Recognition and OTP authentication
-Enhance Automated Teller Machine (ATM) Security by Introducing Facial Recognition
+# Strengthening ATM Security: Facial Recognition and OTP authentication
+Enhancing Automated Teller Machine (ATM) Security by Introducing Facial Recognition and OTP authentication
 
 # 1.	Introduction
 An automated teller machine (ATM) is an electronic telecommunications device that enables customers of financial institutions to perform financial transactions, such as cash withdrawals, deposits, funds transfers, or account information inquiries, at any time and without the need for direct interaction with the bank staff. The total number of automated teller machine (ATM) booths in Bangladesh reached 10,924 at the end of December 2019 with total cash transactions through ATMs stood at about Tk 147.05 billion in the year 2019. This ever-growing technology demands a lot of security to make sure that clients can perform their transection with adequate safety. Covering the ATM booth with Closed-Circuit Television Camera (CCTV) and security guard (human) are physical security measures along with other technology-based securities like firewalls, data encryptions, network security etc. are already implemented to ensure safe ATM service for the clients. However, scams like stolen cards, fake cards, card cloning, skimming, etc. have become very common recently and these could deceive existing security measures easily. 
